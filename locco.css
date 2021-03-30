@@ -1,11 +1,10 @@
-
 @font-face {
   font-family: 'locco';
-  src:  url('https://cdn.jsdelivr.net/gh/atahayrettin/loccomoda/path/to/fonts/locco.eot?r15bby');
-  src:  url('https://cdn.jsdelivr.net/gh/atahayrettin/loccomoda/path/to/fonts/locco.eot?r15bby#iefix') format('embedded-opentype'),
-    url('https://cdn.jsdelivr.net/gh/atahayrettin/loccomoda/path/to/fonts/locco.ttf?r15bby') format('truetype'),
-    url('https://cdn.jsdelivr.net/gh/atahayrettin/loccomoda/path/to/fonts/locco.woff?r15bby') format('woff'),
-    url('https://cdn.jsdelivr.net/gh/atahayrettin/loccomoda/path/to/fonts/locco.svg?r15bby#locco') format('svg');
+  src:  url('https://atahayrettin.github.io/loccomoda/fonts/locco.eot?r15bby');
+  src:  url('https://atahayrettin.github.io/loccomoda/fonts/locco.eot?r15bby#iefix') format('embedded-opentype'),
+    url('https://atahayrettin.github.io/loccomoda/fonts/locco.ttf?r15bby') format('truetype'),
+    url('https://atahayrettin.github.io/loccomoda/fonts/locco.woff?r15bby') format('woff'),
+    url('https://raw.githubusercontent.com/atahayrettin/loccomoda/main/fonts/locco.svg?r15bby#locco') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
