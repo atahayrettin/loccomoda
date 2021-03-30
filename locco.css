@@ -1,0 +1,105 @@
+@font-face {
+  font-family: 'locco';
+  src:  url('fonts/locco.eot?wh86g2');
+  src:  url('fonts/locco.eot?wh86g2#iefix') format('embedded-opentype'),
+    url('fonts/locco.ttf?wh86g2') format('truetype'),
+    url('fonts/locco.woff?wh86g2') format('woff'),
+    url('fonts/locco.svg?wh86g2#locco') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'locco' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-refund-cancel:before {
+  content: "\e900";
+}
+.icon-about:before {
+  content: "\e901";
+}
+.icon-customer:before {
+  content: "\e902";
+}
+.icon-delivery1:before {
+  content: "\e903";
+}
+.icon-delivery2:before {
+  content: "\e904";
+}
+.icon-delivery3:before {
+  content: "\e905";
+}
+.icon-delivery4:before {
+  content: "\e906";
+}
+.icon-fast-delivery:before {
+  content: "\e907";
+}
+.icon-locco-logo:before {
+  content: "\e908";
+}
+.icon-pay1:before {
+  content: "\e909";
+}
+.icon-pay2:before {
+  content: "\e90a";
+}
+.icon-pay3:before {
+  content: "\e90b";
+}
+.icon-pay4:before {
+  content: "\e90c";
+}
+.icon-questions:before {
+  content: "\e90d";
+}
+.icon-refund1:before {
+  content: "\e90e";
+}
+.icon-satisfaction:before {
+  content: "\e90f";
+}
+.icon-secure1:before {
+  content: "\e910";
+}
+.icon-secure2:before {
+  content: "\e911";
+}
+.icon-secure3:before {
+  content: "\e912";
+}
+.icon-shopping1:before {
+  content: "\e913";
+}
+.icon-shopping2:before {
+  content: "\e914";
+}
+.icon-shopping3:before {
+  content: "\e915";
+}
+.icon-shopping4:before {
+  content: "\e916";
+}
+.icon-shopping5:before {
+  content: "\e917";
+}
+.icon-support:before {
+  content: "\e918";
+}
+.icon-terms:before {
+  content: "\e919";
+}
